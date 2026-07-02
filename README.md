@@ -11,12 +11,14 @@ Right now, I am actively participating in **Security Summer School (SSSv13)**. Y
 
 | Competition | Track | Link to Writeups |
 | :--- | :--- | :--- |
-| **Security Summer School v13 - Qualifiers** | Binary Exploitation | [Browse Folder](./SSS_v13_Qualifiers/) |
+| **Security Summer School v13 - Qualifiers** | Forensics | [Browse Folder](./SSS_v13_Qualifiers/Forensics-Track/) |
+| **Security Summer School v13 - Qualifiers** | Binary Exploitation | [Browse Folder](./SSS_v13_Qualifiers/Binary-Track/) |
 
 ## Skills & Tools Showcased
 
 Through these challenges, I frequently analyze and use:
 * **Binary Exploitation:** GDB, Ghidra, `pwntools`, Assembly (x86/x64).
+* **Digital Forensics:** `binwalk`, `exiftool`, Packet Analysis / Wireshark.
 * **Scripting:** Python, Bash.
 
 ## Repository Structure
