@@ -1,4 +1,4 @@
-# SSS Qualifiers:
+# SSS Qualifiers - Binary Track:
 
 ## 1) Challenge: Black Hole
 
